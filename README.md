@@ -53,9 +53,9 @@
   </a>
   &nbsp;&nbsp;
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ardra-shaji" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/ardra-shaji" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35"/>
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <!-- Instagram -->
   <a href="https://www.instagram.com/_snap._.shot" target="_blank">
