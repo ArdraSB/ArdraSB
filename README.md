@@ -61,10 +61,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35"/>
   </a> -->
   &nbsp;&nbsp;
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/_snap._.shot" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" width="35" height="35"/>
-  </a>
+
 </p>
 
 <p align="center">
