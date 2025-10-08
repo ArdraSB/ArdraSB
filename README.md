@@ -15,9 +15,10 @@
   ✨ “Turning the ordinary to extraordinary by editing”.
 </p>
   <div align="center" >
+
   <a href="https://www.instagram.com/_snap._.shot" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" width="25" height="25"/>
-  </a> <i>  👈 The account </i></div>
+  </a> <i>  👈 A glance at my edits   </i></div>
 
 ---
 
