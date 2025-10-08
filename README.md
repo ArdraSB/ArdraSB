@@ -12,7 +12,11 @@
   ☁️ Exploring <b>DevOps</b> <br>
   🔗 Enthusiastic about <b>Blockchain</b> and Smart Energy Systems<br>
   🎨 Passionate about <b>Photo Editing & Digital Creativity</b><br>
-  ✨ “Turning the ordinary to extraordinary by editing”
+  ✨ “Turning the ordinary to extraordinary by editing”.
+  <div >
+  <a href="https://www.instagram.com/_snap._.shot" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" width="25" height="25"/>
+  </a> <i>  👈 The account </i></div>
 </p>
 
 ---
